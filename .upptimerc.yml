@@ -12,7 +12,6 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /bk-monitor
-  logoUrl: https://us.simplerousercontent.net/uploads/theme_file_versions/72097/logo.png
   name: BeeKeeperAI Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Monitoring page to show availability of BeeKeeperAI website
