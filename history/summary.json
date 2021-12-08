@@ -5,16 +5,16 @@
     "icon": "https://us.simplerousercontent.net/uploads/theme_file_versions/72097/logo.png",
     "slug": "bee-keeper-ai",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 586,
-    "timeDay": 685,
-    "timeWeek": 657,
-    "timeMonth": 610,
-    "timeYear": 586,
+    "uptimeYear": "99.99%",
+    "time": 584,
+    "timeDay": 377,
+    "timeWeek": 609,
+    "timeMonth": 601,
+    "timeYear": 584,
     "dailyMinutesDown": {
       "2021-09-30": 22
     }
