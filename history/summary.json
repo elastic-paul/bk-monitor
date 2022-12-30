@@ -4,7 +4,7 @@
     "url": "https://www.beekeeperai.com/",
     "icon": "https://us.simplerousercontent.net/uploads/theme_file_versions/72097/logo.png",
     "slug": "bee-keeper-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 549,
     "timeYear": 612,
     "dailyMinutesDown": {
+      "2022-12-30": 0,
       "2022-12-17": 25,
       "2022-07-01": 50,
       "2022-01-26": 29
